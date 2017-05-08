@@ -7,5 +7,9 @@
     "grunt-contrib-nodeunit": "~0.4.1",
     "grunt-contrib-uglify": "^0.5.1",
     "jake": "^8.0.15"
+  },
+  "engines": {
+    "node": ">=6.5.0",
+    "npm": ">=3.10.0"
   }
 }
