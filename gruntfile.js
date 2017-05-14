@@ -16,7 +16,7 @@ module.exports = function(grunt) {
 
 // Load the plugin that provides the "uglify" task.
 grunt.loadNpmTasks('grunt-contrib-uglify');
-
+grunt.loadNpmTasks('eslint');
 // Default task(s).
 //grunt.registerTask('default', ['uglify']);
 // A very basic default task.
